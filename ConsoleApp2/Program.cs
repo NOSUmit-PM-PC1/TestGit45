@@ -9,7 +9,7 @@ namespace ConsoleApp2
     {
         static void Func()
         {
-            Console.WriteLine("Беда!");
+            Console.WriteLine("Ура!");
         }
         static void Main(string[] args)
         {
