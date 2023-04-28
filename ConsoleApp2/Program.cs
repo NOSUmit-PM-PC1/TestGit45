@@ -7,6 +7,10 @@ namespace ConsoleApp2
 {
     class Program
     {
+        static void Func()
+        {
+            Console.WriteLine("Беда!");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Привет!");
